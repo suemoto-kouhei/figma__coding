@@ -862,7 +862,7 @@ li {
 }
 
 .c-contact__bg {
-  background-image: url(/assets/images/contact.png);
+  background-image: url(assets/images/contact.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: right;
@@ -1231,7 +1231,7 @@ li {
 }
 
 .p-work__img {
-  background-image: url(/assets/images/work.png);
+  background-image: url(assets/images/work.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
