@@ -1462,7 +1462,8 @@ li {
 @media print, screen and (max-width: 768px) {
   .p-service__dayImageWrap {
     width: 100%;
-    margin-bottom: 0 auto 30px;
+    margin-right: 0;
+    margin-bottom: 80px;
   }
 }
 
