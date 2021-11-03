@@ -468,6 +468,7 @@ li {
 @media print, screen and (max-width: 768px) {
   .l-header__inner {
     padding-left: 0;
+    max-height: 100%;
   }
 }
 
